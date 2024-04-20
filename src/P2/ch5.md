@@ -69,3 +69,14 @@ Definition: Isotopes are different atoms of the same element, with the same numb
 | Hydrogen-1 | 1 (1+0)       | 1       | 0        | 1         |
 | Hydrogen-2 | 2 (1+1)       | 1       | 1        | 1         |
 | Hydrogen-3 | 3 (1+2)       | 1       | 2        | 1         |
+
+## Relative abundance
+In most cases, isotopes of the same element have different abundance.
+
+**Example: isotopes of carbon**
+
+| Isotope   | Relative abundance in nature |
+| --------- | ---------------------------- |
+| Carbon-12 | 98.892%                      |
+| Carbon-13 | 1.108%                       |
+| Carbon-14 | very small %                 |
