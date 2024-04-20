@@ -80,4 +80,3 @@ In most cases, isotopes of the same element have different abundance.
 | Carbon-12 | 98.892%                      |
 | Carbon-13 | 1.108%                       |
 | Carbon-14 | very small %                 |
-
