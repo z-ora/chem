@@ -3,5 +3,11 @@ authors = ["tovicheung"]
 language = "en"
 multilingual = false
 src = "src"
-title = "chem"
+title = "Tovi's Chemistry Notes"
 theme = "theme"
+
+[output.html.fold]
+enable = true
+
+[preprocessor.katex]
+after = ["links"]
