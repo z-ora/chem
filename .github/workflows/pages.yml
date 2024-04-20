@@ -29,23 +29,23 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v3
+	      - name: Checkout
+        uses: actions/checkout@main
       # actions/download-artifact@v3 does not allow sharing across workflows
       - name: Download artifact
         id: download-artifact
-        uses: dawidd6/action-download-artifact@v2
+        uses: dawidd6/action-download-artifact@main
         continue-on-error: true
         with:
           name: book
           path: book/
           workflow: build.yml
       - name: Setup Pages
-        uses: actions/configure-pages@v2
+        uses: actions/configure-pages@main
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v1
+        uses: actions/upload-pages-artifact@main
         with:
           path: book
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v1
+        uses: actions/deploy-pages@main
