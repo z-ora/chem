@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "28419de7e8355d97",
+        "id": "09e8bf0f8f18e291",
         "type": "tabs",
         "children": [
           {
-            "id": "feb58b2436535fdb",
+            "id": "cca0e4791f807527",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "P2/Ch7/migration of ions.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "P2/Ch7/migration of ions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "P2/Ch7/migration of ions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "P2/Ch7/migration of ions.md"
+              }
             }
           }
         ]
@@ -138,12 +146,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "feb58b2436535fdb",
+  "active": "b61aa28ae63a39ea",
   "lastOpenFiles": [
+    "assets/Ch7-migration-u-tube.png",
+    "Pasted image 20240421125343.png",
+    "SUMMARY.md",
+    "P2/Ch7/mig",
+    "P2/Ch7/7",
+    "P2/Ch7/7.0.md",
+    "P2/Ch7/migration of ions.md",
+    "assets",
+    "assets/Ch7-migration-filter-paper.png",
+    "P2/Ch6.md",
+    "P2/Ch7",
+    "P2/Ch5/5.2_atoms_isotopes.md",
+    "P2/Ch5/5.1_elements.md",
     "P4/Ch18.md",
     "P4/Ch19/titration.md",
     "P4/Ch19",
-    "SUMMARY.md",
     "P4/Ch17.md",
     "P4/Ch16.md",
     "P4/Ch14/14.2_acids.md",
@@ -156,18 +176,12 @@
     "P4/Ch14/14.1_neutralization.md",
     "P4/Ch14/14.0.md",
     "P2/Ch5/5.3_relative_masses.md",
-    "P2/Ch5/5.2_atoms_isotopes.md",
     "P4/Ch14",
     "P4/Ch14.md",
-    "P4",
-    "P2/Ch5/5.1_elements.md",
     "P2/Ch5/5.2.md",
     "P2/Ch5/5.0.md",
-    "P2/Chtg",
     "P2/ch5.md",
     "P2/ch5-eg-short.md",
-    "P2/Ch5",
-    "chapter_1.md",
-    "P2"
+    "chapter_1.md"
   ]
 }

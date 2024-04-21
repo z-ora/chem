@@ -5,7 +5,9 @@
 	- [Elements](./P2/Ch5/5.1_elements.md)
 	- [Atoms & Isotopes](P2/Ch5/5.2_atoms_isotopes.md)
 	- [Relative masses](./P2/Ch5/5.3_relative_masses.md)
-
+- [The Periodic Table](./P2/Ch6.md)
+- [Ionic and metallic bonds](./P2/Ch7/7.0.md)
+	- [Migration of ions](./P2/Ch7/migration of ions.md)
 # Part IV - Acids and bases
 - [Acids and alkalis](./P4/Ch14/14.0.md)
 	- [Neutralization](./P4/Ch14/14.1_neutralization.md)
