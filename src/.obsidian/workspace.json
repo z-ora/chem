@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "P2/Ch7/migration of ions.md",
+                "file": "P2/Ch7/migration_of_ions.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "P2/Ch7/migration of ions.md",
+                "file": "P2/Ch7/migration_of_ions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "P2/Ch7/migration of ions.md",
+                "file": "P2/Ch7/migration_of_ions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "P2/Ch7/migration of ions.md"
+                "file": "P2/Ch7/migration_of_ions.md"
               }
             }
           }
@@ -146,17 +146,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b61aa28ae63a39ea",
+  "active": "cca0e4791f807527",
   "lastOpenFiles": [
-    "assets/Ch7-migration-u-tube.png",
-    "Pasted image 20240421125343.png",
+    "P2/Ch7/assets",
     "SUMMARY.md",
+    "P2/Ch7/migration_of_ions.md",
+    "P2/Ch7/assets/migration-u-tube.png",
+    "Pasted image 20240421125343.png",
     "P2/Ch7/mig",
     "P2/Ch7/7",
     "P2/Ch7/7.0.md",
-    "P2/Ch7/migration of ions.md",
     "assets",
-    "assets/Ch7-migration-filter-paper.png",
+    "P2/Ch7/assets/migration-filter-paper.png",
     "P2/Ch6.md",
     "P2/Ch7",
     "P2/Ch5/5.2_atoms_isotopes.md",

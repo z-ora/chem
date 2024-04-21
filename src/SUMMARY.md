@@ -7,7 +7,7 @@
 	- [Relative masses](./P2/Ch5/5.3_relative_masses.md)
 - [The Periodic Table](./P2/Ch6.md)
 - [Ionic and metallic bonds](./P2/Ch7/7.0.md)
-	- [Migration of ions](./P2/Ch7/migration of ions.md)
+	- [Migration of ions](./P2/Ch7/migration_of_ions.md)
 # Part IV - Acids and bases
 - [Acids and alkalis](./P4/Ch14/14.0.md)
 	- [Neutralization](./P4/Ch14/14.1_neutralization.md)

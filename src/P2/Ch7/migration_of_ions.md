@@ -6,7 +6,8 @@ What doe the migration of ions under the influence of an electric field show?
 ## On filter paper
 
 The following setup shows a potassium permanganate crystal on the filter paper moistened with sodium sulphate solution.
-![[Ch7-migration-filter-paper.png]]
+
+![Migartion of ions on filter paper](assets/migration-filter-paper.png)
 
 1. Describe and explain the observations.
 	- A purple patch moves towards the positive electrode.
@@ -23,7 +24,8 @@ The following setup shows a potassium permanganate crystal on the filter paper m
 ## In U-tube
 
 The following setup shows copper (II) dichromate migration.
-![[Ch7-migration-u-tube.png]]
+
+![Migration of ions in U-tube](assets/migration-u-tube.png)
 
 1. What is the tube filled with at the two ends?
 	- Dilute hydrochloric acid
